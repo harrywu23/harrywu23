@@ -1,4 +1,4 @@
-# Hey 👋, I'm Harry  
+# Hey 👋 I'm Harry  
 
 💻 Software Engineering student @ UOA
 <br>
