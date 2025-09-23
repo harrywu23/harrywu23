@@ -1,6 +1,7 @@
 # Hey 👋, I'm Harry  
 
 💻 Software Engineering student @ UOA
+<br>
 📍 Based in Auckland, New Zealand  
 
 ---
