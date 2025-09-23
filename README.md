@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech & Tools I Use 
+## 🛠️ Tech & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,7 +23,7 @@
 
 ---
 
-## 📫 How to Reach Me  
+## 📫 Contact Me 
 - Email: **harrywuu23@gmai.com**  
 - LinkedIn: [Harry Wu](https://www.linkedin.com/in/harry-wu-5393192b7/)
 
