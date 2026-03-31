@@ -6,13 +6,6 @@
 
 ---
 
-## 🌱 What I'm Learning  
-- Java
-- Web development with HTML, CSS, React, and JavaScript  
-- Exploring data structures, algorithms, and AI  
-
----
-
 ## 🛠️ Tech & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
