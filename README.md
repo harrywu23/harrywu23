@@ -2,7 +2,8 @@
 
 💻 Software Engineering student @ UOA
 <br>
-📍 Based in Auckland, New Zealand  
+📍 Based in Auckland, New Zealand 
+
 ---
 
 ## 📫 Contact Me 
