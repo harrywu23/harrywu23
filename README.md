@@ -10,7 +10,7 @@
 <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>&nbsp;&nbsp;
 <a href="https://YOUR-PORTFOLIO.com"><img src="https://skillicons.dev/icons?i=html" height="40" alt="Portfolio" /></a>
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL@gmail.com) · [Portfolio](https://YOUR-PORTFOLIO.com)
+[LinkedIn](https://www.linkedin.com/in/harry-wu-5393192b7/) · [Email](mailto:harrywuu23@gmail.com) · [Portfolio](https://harrywu.me)
 
 </div>
 
