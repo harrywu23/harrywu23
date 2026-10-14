@@ -21,7 +21,7 @@ Third-year Software Engineering student at the University of Auckland. I like bu
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,ts,py" />
+<img src="https://skillicons.dev/icons?i=java,ts,py,sql" />
 
 **Web**
 
@@ -29,19 +29,8 @@ Third-year Software Engineering student at the University of Auckland. I like bu
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true" />
-
-</div>
