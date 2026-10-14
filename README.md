@@ -1,9 +1,8 @@
+<div align="center">
+
 # Harry Wu
 
-**BE(Hons) Software Engineering @ University of Auckland**
-
-<a href="https://[www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/harry-wu-5393192b7/)"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:harrywuu23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
+**Software Engineering @ University of Auckland**
 
 </div>
 
@@ -11,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm a third-year Software Engineering student at the University of Auckland. I like building things people actually use: from websites for real clients to full-stack platforms for student clubs.
+Third-year Software Engineering student at the University of Auckland. I like building things people actually use, from websites for real clients to full-stack platforms for student clubs.
 
 - 🚀 Incoming Software Engineer Intern @ **Aderant** (Summer 26/27)
 - 🧑‍💻 Software Developer & Social Executive @ **WDCC** (Web Development and Consulting Club)
@@ -22,15 +21,15 @@ I'm a third-year Software Engineering student at the University of Auckland. I l
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,ts,py,postgres" />
+<img src="https://skillicons.dev/icons?i=java,ts,py" />
 
 **Web**
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,html,css" />
 
-**Databases & Cloud**
+**Databases**
 
-<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 
 **Tools**
 
