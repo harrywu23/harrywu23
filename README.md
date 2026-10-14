@@ -31,7 +31,7 @@ I'm a third-year Software Engineering student at the University of Auckland. I l
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,ts,js,py,c,postgres" />
+<img src="https://skillicons.dev/icons?i=java,ts,py,postgres" />
 
 **Web**
 
@@ -39,7 +39,7 @@ I'm a third-year Software Engineering student at the University of Auckland. I l
 
 **Databases & Cloud**
 
-<img src="https://skillicons.dev/icons?i=mongodb,aws" />
+<img src="https://skillicons.dev/icons?i=mongodb" />
 
 **Tools**
 
