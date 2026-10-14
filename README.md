@@ -1,16 +1,9 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Software+Engineering+%40+UoA;Full-stack+developer;Always+building+something" alt="Typing SVG" />
-
 # Harry Wu
 
-**Software Engineering @ UoA**
+**BE(Hons) Software Engineering @ University of Auckland**
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>&nbsp;&nbsp;
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://skillicons.dev/icons?i=html" height="40" alt="Portfolio" /></a>
-
-[LinkedIn](https://www.linkedin.com/in/harry-wu-5393192b7/) · [Email](mailto:harrywuu23@gmail.com) · [Portfolio](https://harrywu.me)
+<a href="https://[www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/harry-wu-5393192b7/)"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:harrywuu23@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>
 
 </div>
 
@@ -20,10 +13,8 @@
 
 I'm a third-year Software Engineering student at the University of Auckland. I like building things people actually use: from websites for real clients to full-stack platforms for student clubs.
 
-- 💼 Software Engineering Intern @ **GMFB**
 - 🚀 Incoming Software Engineer Intern @ **Aderant** (Summer 26/27)
 - 🧑‍💻 Software Developer & Social Executive @ **WDCC** (Web Development and Consulting Club)
-- 🌱 Currently exploring AI integration for my final-year project
 
 ---
 
@@ -43,7 +34,7 @@ I'm a third-year Software Engineering student at the University of Auckland. I l
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,apple" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 
 ---
 
