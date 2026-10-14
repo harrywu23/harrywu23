@@ -2,7 +2,7 @@
 
 # Harry Wu
 
-**Software Engineering @ University of Auckland**
+**Software Engineering @ UoA**
 
 </div>
 
