@@ -4,11 +4,13 @@
 
 # Harry Wu
 
-**BE(Hons) Software Engineering @ UoA**
+**Software Engineering @ UoA**
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" /></a>&nbsp;&nbsp;
+<a href="https://YOUR-PORTFOLIO.com"><img src="https://skillicons.dev/icons?i=html" height="40" alt="Portfolio" /></a>
+
+[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL@gmail.com) · [Portfolio](https://YOUR-PORTFOLIO.com)
 
 </div>
 
@@ -18,36 +20,30 @@
 
 I'm a third-year Software Engineering student at the University of Auckland. I like building things people actually use: from websites for real clients to full-stack platforms for student clubs.
 
+- 💼 Software Engineering Intern @ **GMFB**
 - 🚀 Incoming Software Engineer Intern @ **Aderant** (Summer 26/27)
-- 🧑‍💻 Software Developer & Social Co-Director @ **WDCC** (Web Development and Consulting Club)
+- 🧑‍💻 Software Developer & Social Executive @ **WDCC** (Web Development and Consulting Club)
+- 🌱 Currently exploring AI integration for my final-year project
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+**Languages**
 
-### Web
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,c,postgres" />
 
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+**Web**
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,html,css" />
+
+**Databases & Cloud**
+
+<img src="https://skillicons.dev/icons?i=mongodb,aws" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,apple" />
 
 ---
 
