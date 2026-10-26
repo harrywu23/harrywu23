@@ -13,7 +13,7 @@
 Third-year Software Engineering student at the University of Auckland. I like building things people actually use, from websites for real clients to full-stack platforms for student clubs.
 
 - 🚀 Incoming Software Engineer Intern @ **Aderant** (Summer 26/27)
-- 🧑‍💻 Software Developer & Social Executive @ **WDCC** (Web Development and Consulting Club)
+- 🧑‍💻 Software Developer & Social Co-Director @ **WDCC** (Web Development and Consulting Club)
 
 ---
 
